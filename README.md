@@ -1,183 +1,105 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              DYLAN KIBET — GITHUB PROFILE README                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    ██████╗ ██╗   ██╗██╗      █████╗ ███╗   ██╗                      ║
-║    ██╔══██╗╚██╗ ██╔╝██║     ██╔══██╗████╗  ██║                      ║
-║    ██║  ██║ ╚████╔╝ ██║     ███████║██╔██╗ ██║                      ║
-║    ██║  ██║  ╚██╔╝  ██║     ██╔══██║██║╚██╗██║                      ║
-║    ██████╔╝   ██║   ███████╗██║  ██║██║ ╚████║                      ║
-║    ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   KIBET             ║
-║                                                                      ║
-║          [ SECURITY ∙ BACKEND ∙ SECURE-DEVOPS ]                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+# Dylan Kibet
+### Security Engineer · Backend Developer · Server & Network Specialist
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Building+secure+backends+in+Java+%26+Rust;Hardening+servers+%26+networks+from+the+ground+up;Founder+%40+Unity+Bridge+%7C+Nakuru%2C+Kenya;SecDevOps+%7C+Infrastructure+%7C+Clean+Code" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-kibet-40ab96334/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dylankibet238@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@systems--jackal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/systems-jackal)
+![Profile Views](https://komarev.com/ghpvc/?username=systems-jackal&style=flat-square&color=2F81F7&label=Profile+Views)
 
 </div>
 
 ---
 
+## 👋 Hey, I'm Dylan
+
+I'm a **Computer Security & Forensics student** based in Nakuru County, Kenya, and the founder of **Unity Bridge** — a tech startup focused on delivering secure connectivity and IT solutions to small businesses and communities.
+
+My work lives at the intersection of four things I genuinely care about: **writing solid backend code**, **locking down servers and infrastructure**, **understanding how networks really work**, and **making sure security isn't an afterthought**. I believe these four aren't separate disciplines — they're one mindset.
+
+When I'm not deep in a Spring Boot service or a Rust project, I'm usually hardening a Linux server, tightening firewall rules, or figuring out how to make a network more resilient. I care a lot about building things that last and systems that hold under pressure.
+
+---
+
+## 🛠️ What I Work With
+
+I work across the full depth of a system — from the application layer down to the bare metal.
+
+### Backend Development
+My primary backend language is **Java** with **Spring Boot**, where I build clean, well-structured REST APIs and services. I'm also growing seriously in **Rust** for anything that needs to be fast, memory-safe, and reliable at a systems level. I care about code that's readable, maintainable, and auditable — not just code that runs.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### Server Management
+This is where I spend a lot of my hands-on time. I manage Linux servers with a focus on **security hardening, performance tuning, and long-term reliability**. I configure and maintain **Nginx** as a reverse proxy and web server, handle TLS/SSL properly, and use **Cloudflare** for DNS, DDoS protection, and Zero Trust access. A server I touch should be leaner, more secure, and better documented than I found it.
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Networking
+I understand networking at a level most developers don't bother with — and I think that gap matters enormously for security. I work with network design, routing, firewall configuration, and VPN setup. Through Unity Bridge, I've applied this practically by building and managing connectivity infrastructure for real communities. I'm also exploring **IoT security**, where the networking and embedded worlds collide.
+
+![WireGuard](https://img.shields.io/badge/VPN-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/DNS_%26_Zero_Trust-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Firewall_%26_Routing-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Secure Development Operations (SecDevOps)
+I don't believe security belongs only to a security team. In my projects, I integrate it directly into the development workflow — from **secrets management** to **static analysis** to writing CI/CD pipelines that catch issues before they ship. The goal is simple: make insecure code hard to ship by default.
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 📘 [Coding Standards & Guidelines](https://github.com/systems-jackal/Coding_Standards_Guidelines.git)
+A practical reference for writing clean, maintainable, and auditable code across multiple languages. Built with real-world engineering in mind — not just style rules, but the reasoning behind them.
+
+> More repositories are actively being built and will be published here as they mature. Quality over speed.
+
+---
+
+## 🏢 Unity Bridge
+
+**Unity Bridge** is a tech startup I founded with a simple belief: small businesses and communities deserve the same quality of secure, reliable infrastructure that large organizations take for granted.
+
+We provide secure network connectivity, IT solutions, and infrastructure support — hands-on, practical, and built to last. It's where everything I study and build comes together in the real world.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-```bash
-$ whoami
-> dylan-kibet  ::  security-engineer | backend-developer | secdevops-practitioner
+![Dylan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=systems-jackal&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
-$ uptime
-> system online · building secure infrastructure since day one
-
-$ cat /etc/mission
-> "Bridging technology and trust — one hardened layer at a time."
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=systems-jackal&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-## `> cat about.txt`
+## 📫 Let's Connect
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  NAME    : Dylan Kibet                                              │
-│  ROLE    : Security & Forensics Student | Founder @ Unity Bridge   │
-│  NODE    : Kampi Ya Moto, Nakuru County, Kenya                     │
-│  FOCUS   : Secure Backend Systems · SecDevOps · Network Hardening  │
-│  STATUS  : [ ACTIVELY BUILDING ] ██████████░░░░░░░░ 68%           │
-└─────────────────────────────────────────────────────────────────────┘
-
-  I build systems that don't just work — they hold.
-  
-  Computer Security & Forensics student by day, infrastructure
-  hardener by night. I architect backend services in Java/Spring Boot,
-  thread security into every CI/CD decision, and run Unity Bridge —
-  a tech startup delivering secure connectivity to small businesses
-  and communities that deserve better infrastructure.
-
-  I don't add security at the end. I bake it in from line one.
-```
-
----
-
-## `> ls -la /skills`
-
-<div align="center">
-
-| Layer | Stack | Posture |
-|---|---|---|
-| 🔐 **Security** | Forensics · Network Hardening · Threat Modeling | Offense-informed Defense |
-| ⚙️ **Backend** | Java · Spring Boot · Maven · REST APIs | Clean, Observable, Auditable |
-| 🛡️ **SecDevOps** | CI/CD Hardening · Secrets Mgmt · SAST | Shift-Left Security |
-| 🌐 **Infrastructure** | Linux · Nginx · Cloudflare · IoT | Zero-Trust Networking |
-| 🦀 **Expanding** | Rust · Cloud Networking · Container Security | Depth over Breadth |
-
-</div>
-
----
-
-## `> cat /proc/tech-stack`
-
-```
-  ┌──────────────[ CORE LANGUAGES ]───────────────────┐
-  │  ████  Java      ──── Spring Boot, Maven, JVM      │
-  │  ███░  Rust      ──── Systems, Memory-Safe Code     │
-  │  ███░  Bash      ──── Automation, Hardening Scripts │
-  └────────────────────────────────────────────────────┘
-
-  ┌──────────────[ INFRASTRUCTURE ]───────────────────┐
-  │  ████  Linux     ──── Server Hardening, CIS Bench  │
-  │  ████  Nginx     ──── Reverse Proxy, TLS, WAF      │
-  │  ████  Cloudflare──── DDoS, DNS, Zero Trust Access │
-  └────────────────────────────────────────────────────┘
-
-  ┌──────────────[ SECDEVOPS PIPELINE ]───────────────┐
-  │  ███░  Git/GitHub Actions ── Secure CI/CD         │
-  │  ███░  SAST/Linting       ── Code Security Gates  │
-  │  ███░  Secrets Management ── Vault, Env Hygiene   │
-  └────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## `> git log --oneline --featured`
-
-```
-  ◉ feat: coding standards & guidelines (PUBLIC)
-  │
-  │   📘  Coding Standards & Guidelines
-  │       A multi-language reference for clean, auditable,
-  │       maintainable code — built with security in mind.
-  │
-  │   → github.com/systems-jackal/Coding_Standards_Guidelines
-  │
-  ◎ feat: [CLASSIFIED] — more repos shipping soon...
-      Building in stealth. Watch this space. 🔒
-```
-
----
-
-## `> systemctl status unity-bridge`
-
-```
-● unity-bridge.service — Secure Connectivity for Communities
-     Loaded: active (running) since founding
-     Status: "Delivering IT solutions & secure networks"
-    Mission: Bridging underserved communities with
-             reliable, hardened infrastructure.
-   Founder: Dylan Kibet — architect, operator, builder.
-```
-
----
-
-## `> ./connect.sh --open-channels`
+I'm open to collaboration, conversations about security and infrastructure, open source contributions, and building things together. Drop me a message anytime.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-kibet-40ab96334/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylankibet238@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-systems--jackal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/systems-jackal)
 
-```
-  Open to:  collaboration · mentorship · security discussions
-            backend architecture · open source · building together
-```
+*"Build it secure. Document it well. Make it last."*
 
 </div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "Security is not a feature. It's a discipline."                   ║
-║                                                                      ║
-║   [ BUILD SECURE ] · [ SHIP CLEAN ] · [ STAY CURIOUS ]              ║
-║                                                              🔒 EOF  ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-![Visitor Count](https://komarev.com/ghpvc/?username=systems-jackal&color=00ff41&style=flat-square&label=CONNECTIONS+ESTABLISHED)
-
-</div>
-
-<!-- END TRANSMISSION -->
