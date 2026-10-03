@@ -1,28 +1,22 @@
 <div align="center">
 
-# `HEXCORE`
-
-### `HEX CRUSADER`
-
-**Knowledge is the exploit that can never be patched.**
+<img src="assets/header.svg" alt="HEXCORE, Hex Crusader: offensive security, Linux, networking" width="100%">
 
 <br>
 
-![Linux](https://img.shields.io/badge/LINUX-00E5FF?style=for-the-badge\&logo=linux\&logoColor=050505\&labelColor=0F172A)
-![Networking](https://img.shields.io/badge/NETWORKING-0284C7?style=for-the-badge\&logo=wireshark\&logoColor=FFFFFF\&labelColor=0F172A)
-![Offensive Security](https://img.shields.io/badge/OFFENSIVE_SECURITY-E11D48?style=for-the-badge\&logo=kalilinux\&logoColor=FFFFFF\&labelColor=0F172A)
+![Linux](https://img.shields.io/badge/LINUX-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0a0f0a)
+![Networking](https://img.shields.io/badge/NETWORKING-00ff41?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=0a0f0a)
+![Offensive Security](https://img.shields.io/badge/OFFENSIVE_SECURITY-00ff41?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=0a0f0a)
 
-<br>
-
-![Python](https://img.shields.io/badge/PYTHON-6366F1?style=for-the-badge\&logo=python\&logoColor=FFFFFF\&labelColor=0F172A)
-![Rust](https://img.shields.io/badge/RUST-7C3AED?style=for-the-badge\&logo=rust\&logoColor=FFFFFF\&labelColor=0F172A)
-![Bash](https://img.shields.io/badge/BASH-7C3AED?style=for-the-badge\&logo=gnubash\&logoColor=FFFFFF\&labelColor=0F172A)
+![Python](https://img.shields.io/badge/PYTHON-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0a0f0a)
+![Rust](https://img.shields.io/badge/RUST-00ff41?style=for-the-badge&logo=rust&logoColor=00ff41&labelColor=0a0f0a)
+![Bash](https://img.shields.io/badge/BASH-00ff41?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=0a0f0a)
 
 </div>
 
 ---
 
-## `0x01 :: HEX CRUSADER`
+## ![0x01 HEX CRUSADER](https://img.shields.io/badge/0x01-HEX_CRUSADER-00ff41?style=for-the-badge&labelColor=0a0f0a)
 
 > **Offensive Security**
 
@@ -30,7 +24,7 @@ Building a strong foundation in **Linux, networking, programming, and offensive 
 
 ---
 
-## `0x02 :: CORE`
+## ![0x02 CORE](https://img.shields.io/badge/0x02-CORE-00ff41?style=for-the-badge&labelColor=0a0f0a)
 
 | Sigil | Domain                 | Focus                                                       |
 | :---: | :--------------------- | :---------------------------------------------------------- |
@@ -40,7 +34,7 @@ Building a strong foundation in **Linux, networking, programming, and offensive 
 
 ---
 
-## `0x03 :: LANGUAGES`
+## ![0x03 LANGUAGES](https://img.shields.io/badge/0x03-LANGUAGES-00ff41?style=for-the-badge&labelColor=0a0f0a)
 
 ```text
 ┌────────────────────────────────────────────┐
@@ -54,7 +48,7 @@ Building a strong foundation in **Linux, networking, programming, and offensive 
 
 ---
 
-## `0x04 :: OFFENSIVE SECURITY`
+## ![0x04 OFFENSIVE SECURITY](https://img.shields.io/badge/0x04-OFFENSIVE_SECURITY-00ff41?style=for-the-badge&labelColor=0a0f0a)
 
 ```text
 ┌────────────────────────────────────────────┐
@@ -72,18 +66,17 @@ Building a strong foundation in **Linux, networking, programming, and offensive 
 
 ---
 
-## `0x05 :: SPECIALIZATION`
+## ![0x05 SPECIALIZATION](https://img.shields.io/badge/0x05-SPECIALIZATION-00ff41?style=for-the-badge&labelColor=0a0f0a)
 
 ```text
-                 OFFENSIVE SECURITY
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-           MALWARE              CRYPTOGRAPHY
-           ANALYSIS
-              │                     │
-              ▼                     ▼
-       REVERSE ENGINEERING    APPLIED CRYPTOGRAPHY
+               OFFENSIVE SECURITY
+                        │
+         ┌──────────────┴──────────────┐
+         │                             │
+ MALWARE ANALYSIS                CRYPTOGRAPHY
+         │                             │
+         ▼                             ▼
+REVERSE ENGINEERING          APPLIED CRYPTOGRAPHY
 ```
 
 Areas I'm particularly interested in developing deeper expertise in:
@@ -95,40 +88,20 @@ Areas I'm particularly interested in developing deeper expertise in:
 
 ---
 
-## `0x06 :: MINDSET`
+## ![0x06 MINDSET](https://img.shields.io/badge/0x06-MINDSET-00ff41?style=for-the-badge&labelColor=0a0f0a)
 
 ```text
-             ┌───────────────────────┐
-             │       UNDERSTAND      │
-             └───────────┬───────────┘
-                         │
-                         ▼
-             ┌───────────────────────┐
-             │         BUILD         │
-             └───────────┬───────────┘
-                         │
-                         ▼
-             ┌───────────────────────┐
-             │        ANALYZE        │
-             └───────────┬───────────┘
-                         │
-                         ▼
-             ┌───────────────────────┐
-             │         LEARN         │
-             └───────────────────────┘
+ ┌────────────┐   ┌───────┐   ┌─────────┐   ┌───────┐
+ │ UNDERSTAND │──▶│ BUILD │──▶│ ANALYZE │──▶│ LEARN │
+ └─────▲──────┘   └───────┘   └─────────┘   └───┬───┘
+       │                                        │
+       └────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-### `LINUX • NETWORKING • OFFENSIVE SECURITY`
-
-### `PYTHON • RUST • BASH`
-
-<br>
-
-**Knowledge is the exploit that can never be patched.**
+<img src="assets/footer.svg" alt="Linux, networking, offensive security. Python, Rust, Bash. Knowledge is the exploit that can never be patched." width="100%">
 
 </div>
-
