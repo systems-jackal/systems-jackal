@@ -1,107 +1,62 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="HEXCORE, Hex Crusader: offensive security, Linux, networking" width="100%">
+<img src="assets/header.svg" alt="HEXCORE, Hex Crusader. Red teaming, penetration testing, offensive security." width="100%">
+
+</div>
 
 <br>
 
-![Linux](https://img.shields.io/badge/LINUX-00ff41?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0a0f0a)
-![Networking](https://img.shields.io/badge/NETWORKING-00ff41?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=0a0f0a)
-![Offensive Security](https://img.shields.io/badge/OFFENSIVE_SECURITY-00ff41?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=0a0f0a)
+<img src="assets/01-profile.svg" alt="Section 01: Profile" width="100%">
 
-![Python](https://img.shields.io/badge/PYTHON-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0a0f0a)
-![Rust](https://img.shields.io/badge/RUST-00ff41?style=for-the-badge&logo=rust&logoColor=00ff41&labelColor=0a0f0a)
-![Bash](https://img.shields.io/badge/BASH-00ff41?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=0a0f0a)
+> **Red Teaming · Penetration Testing**
 
-</div>
+Building a strong foundation in **Linux, networking, programming, and offensive security**, with a focus on **penetration testing and red teaming**, and a growing interest in **exploit development, malware analysis, and cryptography**.
 
----
+<br>
 
-## ![0x01 HEX CRUSADER](https://img.shields.io/badge/0x01-HEX_CRUSADER-00ff41?style=for-the-badge&labelColor=0a0f0a)
+<img src="assets/02-core.svg" alt="Section 02: Core domains" width="100%">
 
-> **Offensive Security**
+<img src="assets/core-domains.svg" alt="Core domains: Linux, Networking, Offensive Security" width="100%">
 
-Building a strong foundation in **Linux, networking, programming, and offensive security**, with a growing focus on **exploit development, malware analysis, and cryptography**.
+<br>
 
----
+<img src="assets/03-languages.svg" alt="Section 03: Languages" width="100%">
 
-## ![0x02 CORE](https://img.shields.io/badge/0x02-CORE-00ff41?style=for-the-badge&labelColor=0a0f0a)
+<img src="assets/languages.svg" alt="Languages: Python, Rust, Bash" width="100%">
 
-| Sigil | Domain                 | Focus                                                       |
-| :---: | :--------------------- | :---------------------------------------------------------- |
-|   ⌬   | **Linux**              | Systems, administration, and internals                      |
-|   ⌖   | **Networking**         | Protocols, infrastructure, and security fundamentals        |
-|   ◈   | **Offensive Security** | Exploitation, vulnerability research, and security analysis |
+<br>
 
----
+<img src="assets/04-offensive-security.svg" alt="Section 04: Offensive security" width="100%">
 
-## ![0x03 LANGUAGES](https://img.shields.io/badge/0x03-LANGUAGES-00ff41?style=for-the-badge&labelColor=0a0f0a)
+<img src="assets/offensive-security.svg" alt="Offensive security toolkit" width="100%">
 
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   Python                                   │
-│   Rust                                     │
-│   Bash                                     │
-│                                            │
-└────────────────────────────────────────────┘
-```
+<br>
 
----
+<img src="assets/05-specialization.svg" alt="Section 05: Specialization" width="100%">
 
-## ![0x04 OFFENSIVE SECURITY](https://img.shields.io/badge/0x04-OFFENSIVE_SECURITY-00ff41?style=for-the-badge&labelColor=0a0f0a)
+<img src="assets/specialization.svg" alt="Specialization: penetration testing as the primary focus, red teaming, with supporting research in malware analysis, reverse engineering and cryptography" width="100%">
 
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   ├── Vulnerability Research               │
-│   ├── Exploit Development                  │
-│   ├── Malware Analysis                     │
-│   ├── Python Scripting & Tooling           │
-│   ├── Bash Scripting                       │
-│   ├── Linux Security                       │
-│   └── Network Security                     │
-│                                            │
-└────────────────────────────────────────────┘
-```
+**Primary focus:** penetration testing, complemented by red teaming.
+**Supporting research:** malware analysis, reverse engineering, and cryptography.
 
----
+<br>
 
-## ![0x05 SPECIALIZATION](https://img.shields.io/badge/0x05-SPECIALIZATION-00ff41?style=for-the-badge&labelColor=0a0f0a)
+<img src="assets/06-services.svg" alt="Section 06: Services" width="100%">
 
-```text
-               OFFENSIVE SECURITY
-                        │
-         ┌──────────────┴──────────────┐
-         │                             │
- MALWARE ANALYSIS                CRYPTOGRAPHY
-         │                             │
-         ▼                             ▼
-REVERSE ENGINEERING          APPLIED CRYPTOGRAPHY
-```
+<img src="assets/services.svg" alt="Services: penetration testing, red team engagements, vulnerability assessment, reporting and remediation" width="100%">
 
-Areas I'm particularly interested in developing deeper expertise in:
+<img src="assets/process.svg" alt="Engagement lifecycle: scope, recon, exploit, report, retest" width="100%">
 
-* **Malware Analysis**
-* **Reverse Engineering**
-* **Cryptography**
-* **Applied Cryptography**
+<img src="assets/notice.svg" alt="Authorized engagements only. All testing is performed with explicit written authorization and within an agreed scope." width="100%">
 
----
+To discuss an engagement, reach out through the contact links on this profile.
 
-## ![0x06 MINDSET](https://img.shields.io/badge/0x06-MINDSET-00ff41?style=for-the-badge&labelColor=0a0f0a)
+<br>
 
-```text
- ┌────────────┐   ┌───────┐   ┌─────────┐   ┌───────┐
- │ UNDERSTAND │──▶│ BUILD │──▶│ ANALYZE │──▶│ LEARN │
- └─────▲──────┘   └───────┘   └─────────┘   └───┬───┘
-       │                                        │
-       └────────────────────────────────────────┘
-```
+<img src="assets/07-mindset.svg" alt="Section 07: Mindset" width="100%">
 
----
+<img src="assets/mindset.svg" alt="Mindset: understand, build, analyze, learn, iterate" width="100%">
 
-<div align="center">
+<br>
 
-<img src="assets/footer.svg" alt="Linux, networking, offensive security. Python, Rust, Bash. Knowledge is the exploit that can never be patched." width="100%">
-
-</div>
+<img src="assets/footer.svg" alt="Knowledge is the exploit that can never be patched." width="100%">
