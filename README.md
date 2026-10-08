@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="HEXCORE, Hex Crusader. Red teaming, penetration testing, offensive security." width="100%">
+<img src="assets/header.svg" alt=JACKAL, JACKAL SYSTEMS. Red teaming, penetration testing, offensive security." width="100%">
 
 </div>
 
