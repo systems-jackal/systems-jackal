@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt=JACKAL, JACKAL SYSTEMS. Red teaming, penetration testing, offensive security." width="100%">
+<img src="assets/header.svg" alt="JACKAL SYSTEMS. Offensive Security Operations and Detection Engineer." width="100%">
 
 </div>
 
@@ -8,9 +8,9 @@
 
 <img src="assets/01-profile.svg" alt="Section 01: Profile" width="100%">
 
-> **Red Teaming · Penetration Testing**
+> **Offensive Security Operations · Detection Engineering**
 
-Building a strong foundation in **Linux, networking, programming, and offensive security**, with a focus on **penetration testing and red teaming**, and a growing interest in **exploit development, malware analysis, and cryptography**.
+Building a strong foundation in **Linux, networking, programming, and offensive security**, with a focus on **penetration testing and red teaming**, and the detection engineering that closes the loop: turning every attack path into something defenders can see, alert on, and stop. Growing interest in **exploit development, malware analysis, and cryptography**.
 
 <br>
 
@@ -22,7 +22,9 @@ Building a strong foundation in **Linux, networking, programming, and offensive 
 
 <img src="assets/03-languages.svg" alt="Section 03: Languages" width="100%">
 
-<img src="assets/languages.svg" alt="Languages: Python, Rust, Bash" width="100%">
+<img src="assets/languages.svg" alt="Languages: Bash for scripting and automation, Go for writing custom tools" width="100%">
+
+**Bash** for scripting and automation. **Go** for writing custom tools.
 
 <br>
 
@@ -34,9 +36,10 @@ Building a strong foundation in **Linux, networking, programming, and offensive 
 
 <img src="assets/05-specialization.svg" alt="Section 05: Specialization" width="100%">
 
-<img src="assets/specialization.svg" alt="Specialization: penetration testing as the primary focus, red teaming, with supporting research in malware analysis, reverse engineering and cryptography" width="100%">
+<img src="assets/specialization.svg" alt="Specialization: offensive security, with penetration testing as the primary focus (identify, exploit, report) and red teaming (adversary simulation). Supporting research in malware analysis, reverse engineering and cryptography." width="100%">
 
-**Primary focus:** penetration testing, complemented by red teaming.
+**Primary focus:** penetration testing (identify, exploit, report).
+**Also:** red teaming and adversary simulation.
 **Supporting research:** malware analysis, reverse engineering, and cryptography.
 
 <br>
